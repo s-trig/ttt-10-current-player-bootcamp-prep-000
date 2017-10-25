@@ -13,4 +13,5 @@ def current_player(board)
     puts "Current Player is O"
   else
     puts"Current Player is X"
+  end
 end
